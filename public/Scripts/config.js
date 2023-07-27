@@ -1,0 +1,2 @@
+window.REACT_APP_SITE_NAME="Qrawler"
+window.REACT_APP_SITE_COLOR="#5995fd"
